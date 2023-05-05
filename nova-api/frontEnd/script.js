@@ -1,4 +1,4 @@
-const baseURL = "https://tarefasgiselle.onrender.com"
+const baseURL = "https://tarefasgiselle.onrender.com/tarefas"
 
 let tarefas = []
 let editing = false
